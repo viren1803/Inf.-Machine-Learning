@@ -1,0 +1,28 @@
+body{
+  margin:0;
+}
+
+header{
+  background-color: red;
+  height:200px;
+}
+
+article{
+  background-color: #add1b9;
+  width:60vw;
+  margin: 0 auto;
+}
+
+nav{
+  float:left;
+  width:20vw;
+  background-color: #e4dac5;
+}
+
+footer{
+  background-color: mediumaquamarine;
+  position:fixed;
+  bottom:0px;
+  width:100%;
+  height:50px;
+}
