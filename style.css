@@ -21,7 +21,9 @@ article{
   width:60vw;
   margin: 0 auto;
 }
-
+a {
+text-decoration: none;
+}
 nav{
   float:left;
   position: absolute;
