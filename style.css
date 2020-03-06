@@ -7,9 +7,6 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.page {
-  font-family: 'Open Sans', sans-serif;
-}
 
 header{
   background-color: red;
@@ -41,6 +38,6 @@ footer{
   height:34px;
 }
 
-ul {
+ul{
   list-style-type: none;
  }
