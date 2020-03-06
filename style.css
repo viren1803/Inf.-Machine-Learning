@@ -23,6 +23,8 @@ article{
 }
 a {
 text-decoration: none;
+color:rgb(96, 102, 82);
+font-weight: bold;
 }
 nav{
   float:left;
