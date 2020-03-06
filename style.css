@@ -39,3 +39,6 @@ footer{
   height:34px;
 }
 
+ul {
+  list-style-type: none;
+ }
