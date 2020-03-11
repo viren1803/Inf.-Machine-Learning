@@ -17,15 +17,15 @@ article{
   background-color: #9EDAE8;
   width:60vw;
   margin: 0 auto;
-}
+  }
 a {
 text-decoration: none;
 color:rgb(96, 102, 82);
 font-weight: bold;
 }
 nav{
-  float:left;
-  position: absolute;
+  position:sticky;
+  top:18px;
   width:19.5vw;
   background-color: #e4dac5;
 }
