@@ -38,6 +38,12 @@ footer{
   height:34px;
 }
 
+iframe{
+	float: absolute;
+	margin-left: 250px;
+}
+
+
 ul{
   list-style-type: none;
  }
