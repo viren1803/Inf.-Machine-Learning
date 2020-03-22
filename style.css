@@ -1,6 +1,6 @@
-
 body{
   margin:0;
+  background-image: url('https://www.smartbooqing.com/wp-content/uploads/2019/07/Machine-learning.png');
 }
 
 p {
@@ -9,31 +9,36 @@ p {
 
 
 header{
-  background-color: red;
   height:200px;
+  background-image: url('https://www.insurancethoughtleadership.com/wp-content/uploads/2018/10/Blockchain-960x576.jpg');
+  background-position: center;
 }
 
 article{
-  background-color: #9EDAE8;
-  width:60vw;
+  background-color: aquamarine;
+  width:62.5vw;
   margin: 0 auto;
   }
+
 a {
 text-decoration: none;
-color:rgb(96, 102, 82);
+color: black;
 font-weight: bold;
 }
+
 nav{
   position:fixed;
   top:200px;
-  width:19vw;
-  background-color: #e4dac5;
+  width:18vw;
+  background-color: aquamarine;
 }
 
 iframe{
-	float: absolute;
-	margin-left: 250px;
-}
+	float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  }
 
 
 ul{
