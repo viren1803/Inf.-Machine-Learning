@@ -40,6 +40,12 @@ iframe{
   margin-left: 20px;
   }
 
+img{
+  float: right;
+  margin-left: 10px;
+  margin-top: 70px;
+  margin-right: 5px;
+}
 
 ul{
   list-style-type: none;
