@@ -8,11 +8,37 @@ p {
 }
 
 
-header{
+.nav-header{
   height:200px;
   background-image: url('https://www.insurancethoughtleadership.com/wp-content/uploads/2018/10/Blockchain-960x576.jpg');
   background-position: center;
 }
+
+.main-nav {
+  width: 800px;
+  margin-left: 200px;
+  position: absolute;
+  top: 50px;
+}
+
+  .main-nav a {
+    display: inline-block;
+    border-radius: 5px 0px 0px 0px;
+    border-bottom: 10px solid white;
+    background-color: rgba(255, 255, 255, 0.64);
+    color: black;
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: bottom 300ms ease;
+    position:relative;
+    bottom: 15px;
+    border-top-right-radius:5px;
+}
+
+    .main-nav a:hover {
+      bottom: 20px;
+    }
+
 
 article{
   background-color: aquamarine;
@@ -26,7 +52,7 @@ color: black;
 font-weight: bold;
 }
 
-nav{
+.page-nav{
   position:fixed;
   top:200px;
   width:18vw;
